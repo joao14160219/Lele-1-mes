@@ -7,7 +7,7 @@ body{
     align-items: center;
     justify-content: center;
     margin: 0;
-    background: url(/IMGS/galaxia.png)
+    background: url(galaxia.png)
 }
 
 .carousel {
@@ -99,4 +99,5 @@ h1 {
         font-family: "Pacifico", cursive;
         font-style: italic;
         font-weight: 400;
+
     }
